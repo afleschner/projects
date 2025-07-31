@@ -1,6 +1,14 @@
 # projects
 Welcome to my project portfolio developed during the Artificial Intelligence and Machine Learning Program at the University of Texas, Austin. This repository showcases end-to-end solutions to real-world problems using Python, machine learning, and deep learning techniques. Each project includes problem statements, methodology, and results.
 
+## Natural Language Processor (MLP) of News Articles - NLP_Additional_Project_Learner_Notebook_FIXED.ipynb
+* Prompt Engineering for LLMs (Flan-T5) for text classification
+* Data Visualization (Confusion Matrix, performance comparison tables)
+* Evaluation Metrics (Accuracy, Precision, Recall, F1-score)
+* Python Programming (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+
+
+
 ## FoodHub Order Prediction - Learner_Notebook_Full_Code (1).ipynb
 Skills Used: 
 * Data preprocessing and wrangling
