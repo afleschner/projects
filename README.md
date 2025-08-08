@@ -1,11 +1,13 @@
 # projects
 Welcome to my project portfolio developed during the Artificial Intelligence and Machine Learning Program at the University of Texas, Austin. This repository showcases end-to-end solutions to real-world problems using Python, machine learning, and deep learning techniques. Each project includes problem statements, methodology, and results.
 
-## Natural Language Processor (MLP) of News Articles - NLP_Additional_Project_Learner_Notebook_FIXED.ipynb
-* Prompt Engineering for LLMs (Flan-T5) for text classification
-* Data Visualization (Confusion Matrix, performance comparison tables)
-* Evaluation Metrics (Accuracy, Precision, Recall, F1-score)
-* Python Programming (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+## 📰 Natural Language Processor of News Articles  
+**File:** `NLP_Additional_Project_Learner_Notebook_FIXED.ipynb`  
+**Skills Used:**
+- Prompt engineering for LLMs (Flan-T5) for text classification
+- Data visualization (Confusion Matrix, performance comparison tables)
+- Evaluation metrics (Accuracy, Precision, Recall, F1-score)
+- Python programming (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 
 
 
